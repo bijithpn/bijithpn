@@ -1,8 +1,6 @@
 <h1 align="start">Hi 👋, I'm Bijith P N</h1>
 <h3 align="start">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Recipe app**
-
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [bijith.in](https://www.bijith.in)
