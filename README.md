@@ -39,7 +39,6 @@
   ![Android Studio](https://img.shields.io/badge/AndroidStudio-%234ea94b.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 - 💻 &nbsp;
   ![Figma](https://img.shields.io/badge/figma-%232a2d33.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
@@ -54,10 +53,8 @@
 <a href="https://leetcode.com/u/bijithpn/" target="blank"><img align="center" src="https://img.shields.io/badge/leetcode-%23ec9617.svg?logo=Leetcode&logoColor=white" alt="bijithpn" height="30" width="105" /></a>
 </p>
 
-## Connect with me:
 ---
 <div style="display: flex; justify-content: start; align-items: center;">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijithpn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="bijithpn" style="height:200px; margin-right: 10px;"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bijithpn&theme=dark&hide_border=false" alt="bijithpn" style="height:200px; margin-right: 10px;"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=bijithpn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="bijithpn" style="height:200px; margin-right: 10px;"/>
 </div>
