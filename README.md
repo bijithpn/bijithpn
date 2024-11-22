@@ -45,7 +45,7 @@
 ## Connect with me:
 ---
 <p align="left">
-<a href="https://twitter.com/bijithpn" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="bijithpn" height="30" width="50" /></a>
+<a href="https://twitter.com/bijithpn" target="blank"><img align="center" src="https://aqovwzqqqo.cloudimg.io/v7/www.technobaboy.com/wp-content/uploads/twitter-new-logo-x.jpg?w=770" alt="bijithpn" height="30" width="50" /></a>
 <a href="https://linkedin.com/in/bijithpn" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="bijithpn" height="30" width="100" /></a>
 <a href="https://stackoverflow.com/users/15346222/bijith-p-n" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="https://stackoverflow.com/users/15346222/bijith-p-n" height="30" width="105" /></a>
 <a href="https://instagram.com/bijithpn" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="bijithpn" height="30" width="105" /></a>
